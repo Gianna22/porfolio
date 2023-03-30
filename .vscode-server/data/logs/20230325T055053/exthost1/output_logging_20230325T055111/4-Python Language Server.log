@@ -1,0 +1,40 @@
+[Info  - 5:51:32 AM] (189) Pylance language server 2023.3.20 (pyright 93a4ef87) starting
+[Info  - 5:51:32 AM] (189) Server root directory: /home/gianna/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20/dist
+[Info  - 5:51:32 AM] (189) Starting service instance "test"
+[Info  - 5:51:32 AM] (189) Auto-indent enabled
+[Info  - 5:51:33 AM] (189) Starting service instance "<default>"
+[Info  - 5:51:35 AM] (189) No pyproject.toml file found.
+[Info  - 5:51:35 AM] (189) Setting pythonPath for service "<default>": "/bin/python3"
+[Warn  - 5:51:35 AM] (189) stubPath typings is not a valid directory.
+[Info  - 5:51:35 AM] (189) Assuming Python version 3.10
+[Info  - 5:51:35 AM] (189) Assuming Python platform Linux
+[Info  - 5:51:38 AM] (189) Searching for source files
+[Info  - 5:51:38 AM] (189) No source files found.
+[Info  - 5:51:38 AM] (189) Background analysis(1) root directory: /home/gianna/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20/dist
+[Info  - 5:51:38 AM] (189) Background analysis(1) started
+[Info  - 5:51:38 AM] (189) No configuration file found.
+[Info  - 5:51:38 AM] (189) No pyproject.toml file found.
+[Info  - 5:51:38 AM] (189) Setting pythonPath for service "test": "/bin/python3"
+[Warn  - 5:51:38 AM] (189) stubPath /home/gianna/test/typings is not a valid directory.
+[Info  - 5:51:38 AM] (189) Assuming Python version 3.10
+[Info  - 5:51:38 AM] (189) Assuming Python platform Linux
+[Info  - 5:51:39 AM] (189) Searching for source files
+[Info  - 5:51:39 AM] (189) Found 2 source files
+[Info  - 5:51:39 AM] (189) Background analysis(2) root directory: /home/gianna/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20/dist
+[Info  - 5:51:39 AM] (189) Background analysis(2) started
+[Info  - 5:51:39 AM] (189) No pyproject.toml file found.
+[Info  - 5:51:39 AM] (189) Setting pythonPath for service "<default>": "/bin/python3"
+[Warn  - 5:51:39 AM] (189) stubPath typings is not a valid directory.
+[Info  - 5:51:39 AM] (189) Assuming Python version 3.10
+[Info  - 5:51:39 AM] (189) Assuming Python platform Linux
+[Info  - 5:51:40 AM] (189) Searching for source files
+[Info  - 5:51:40 AM] (189) No source files found.
+[Info  - 5:51:43 AM] (189) Indexer background runner(3) root directory: /home/gianna/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20/dist (index)
+[Info  - 5:51:43 AM] (189) Indexing(3) started
+[Info  - 5:51:48 AM] (189) [IDX(3)] Long operation: scan packages /home/gianna/test (5329ms)
+[Info  - 5:51:48 AM] (189) scanned(3) 38 files over 1 exec env
+[Info  - 5:51:50 AM] (189) [BG(1)] Long operation: getSemanticTokens range 0:0 - 5:0 at /home/gianna/test/load_dataframe.py (6833ms)
+[Info  - 5:51:51 AM] (189) [IDX(3)] Long operation: index execution environment /home/gianna/test (2372ms)
+[Info  - 5:51:51 AM] (189) [IDX(3)] Long operation: index packages /home/gianna/test (2410ms)
+[Info  - 5:51:51 AM] (189) indexed(3) 16 files over 1 exec env
+[Info  - 5:51:51 AM] (189) Indexing finished(3).

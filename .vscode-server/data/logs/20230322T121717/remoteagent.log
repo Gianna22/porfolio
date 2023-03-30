@@ -1,0 +1,63 @@
+2023-03-22 12:17:19.321 [info] 
+
+
+
+
+2023-03-22 12:17:19.321 [info] Extension host agent started.
+2023-03-22 12:17:20.968 [info] Started initializing default profile extensions in extensions installation folder. file:///home/gianna/.vscode-server/extensions
+2023-03-22 12:17:21.065 [info] [127.0.0.1][dc301739][ManagementConnection] New connection established.
+2023-03-22 12:17:23.298 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/gianna/.vscode-server/extensions
+2023-03-22 12:17:24.411 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-22 12:17:25.877 [info] [127.0.0.1][cf4ca9bd][ExtensionHostConnection] New connection established.
+2023-03-22 12:17:25.960 [info] [127.0.0.1][cf4ca9bd][ExtensionHostConnection] <268> Launched Extension Host Process.
+2023-03-22 12:19:18.375 [info] Getting Manifest... ms-python.python
+2023-03-22 12:19:21.599 [info] Installing extension: ms-python.python
+2023-03-22 12:19:24.213 [info] Getting Manifest... ms-toolsai.jupyter
+2023-03-22 12:19:25.688 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-03-22 12:19:26.599 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-03-22 12:19:26.971 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-03-22 12:19:27.325 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-03-22 12:19:27.696 [info] Getting Manifest... ms-python.vscode-pylance
+2023-03-22 12:19:28.390 [info] Installing extension: ms-toolsai.jupyter ms-python.python
+2023-03-22 12:19:28.391 [info] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+2023-03-22 12:19:28.391 [info] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+2023-03-22 12:19:28.403 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+2023-03-22 12:19:28.404 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+2023-03-22 12:19:28.404 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-03-22 12:20:14.908 [info] Extension signature verification: ms-toolsai.jupyter-keymap. Verification status: Verified.
+2023-03-22 12:20:14.939 [info] Extension signature verification: ms-toolsai.jupyter. Verification status: Verified.
+2023-03-22 12:20:14.939 [info] Extension signature verification: ms-python.python. Verification status: Verified.
+2023-03-22 12:20:15.037 [info] Extension signature verification: ms-toolsai.jupyter-renderers. Verification status: Verified.
+2023-03-22 12:20:15.037 [info] Extension signature verification: ms-toolsai.vscode-jupyter-cell-tags. Verification status: Verified.
+2023-03-22 12:20:15.072 [info] Extension signature verification: ms-toolsai.vscode-jupyter-slideshow. Verification status: Verified.
+2023-03-22 12:20:15.405 [info] Extracted extension to /home/gianna/.vscode-server/extensions/.ee06824b-4897-432a-bd25-77ac5938226c: ms-toolsai.jupyter-keymap
+2023-03-22 12:20:15.497 [info] Renamed to /home/gianna/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-03-22 12:20:15.541 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-03-22 12:20:16.209 [info] Extracted extension to /home/gianna/.vscode-server/extensions/.5bf811d1-e76e-4cd4-820b-8b8bfbca0ca1: ms-toolsai.vscode-jupyter-slideshow
+2023-03-22 12:20:16.241 [info] Renamed to /home/gianna/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-03-22 12:20:16.267 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2023-03-22 12:20:16.389 [info] Extracted extension to /home/gianna/.vscode-server/extensions/.a191c14e-67b7-43cc-86c9-e30c607376dd: ms-toolsai.vscode-jupyter-cell-tags
+2023-03-22 12:20:16.449 [info] Renamed to /home/gianna/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2023-03-22 12:20:16.482 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-03-22 12:20:21.520 [info] Extracted extension to /home/gianna/.vscode-server/extensions/.a7d4e233-a411-4a8f-884b-6179c4be54dd: ms-toolsai.jupyter-renderers
+2023-03-22 12:20:21.648 [info] Renamed to /home/gianna/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.15
+2023-03-22 12:20:21.702 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-03-22 12:20:26.340 [info] Extracted extension to /home/gianna/.vscode-server/extensions/.8f2a956e-4198-4088-a4b7-627b34a5c1fa: ms-toolsai.jupyter
+2023-03-22 12:20:26.368 [info] Renamed to /home/gianna/.vscode-server/extensions/ms-toolsai.jupyter-2023.2.1200692131
+2023-03-22 12:20:26.401 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-03-22 12:20:38.523 [info] Extracted extension to /home/gianna/.vscode-server/extensions/.67f5f3a4-f095-4913-a28c-31c0cc5f2519: ms-python.python
+2023-03-22 12:20:38.550 [info] Renamed to /home/gianna/.vscode-server/extensions/ms-python.python-2023.4.1
+2023-03-22 12:20:38.574 [info] Extracting extension completed. ms-python.python
+2023-03-22 12:20:49.486 [info] Extension signature verification: ms-python.vscode-pylance. Verification status: Verified.
+2023-03-22 12:21:08.053 [info] Extracted extension to /home/gianna/.vscode-server/extensions/.c9ea73da-b36b-4895-bc33-a849a6550708: ms-python.vscode-pylance
+2023-03-22 12:21:08.073 [info] Renamed to /home/gianna/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20
+2023-03-22 12:21:08.080 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-03-22 12:21:08.097 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-03-22 12:21:08.098 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-03-22 12:21:08.098 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-03-22 12:21:08.098 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-03-22 12:21:08.098 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-03-22 12:21:08.099 [info] Extension installed successfully: ms-python.python
+2023-03-22 12:21:08.099 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-03-22 12:57:42.382 [info] [127.0.0.1][dc301739][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-22 12:57:45.283 [info] [127.0.0.1][cf4ca9bd][ExtensionHostConnection] <268> Extension Host Process exited with code: 0, signal: null.

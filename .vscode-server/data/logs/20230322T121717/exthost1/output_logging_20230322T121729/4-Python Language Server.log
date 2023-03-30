@@ -1,0 +1,36 @@
+[Info  - 12:21:21 PM] (406) Pylance language server 2023.3.20 (pyright 93a4ef87) starting
+[Info  - 12:21:21 PM] (406) Server root directory: /home/gianna/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20/dist
+[Info  - 12:21:21 PM] (406) Starting service instance "test"
+[Info  - 12:21:21 PM] (406) No configuration file found.
+[Info  - 12:21:21 PM] (406) No pyproject.toml file found.
+[Info  - 12:21:21 PM] (406) Setting pythonPath for service "test": "/bin/python3"
+[Warn  - 12:21:21 PM] (406) stubPath /home/gianna/test/typings is not a valid directory.
+[Info  - 12:21:22 PM] (406) Assuming Python version 3.10
+[Info  - 12:21:22 PM] (406) Assuming Python platform Linux
+[Info  - 12:21:22 PM] (406) Searching for source files
+[Info  - 12:21:22 PM] (406) Found 1 source file
+[Info  - 12:21:23 PM] (406) Background analysis(1) root directory: /home/gianna/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20/dist
+[Info  - 12:21:23 PM] (406) Background analysis(1) started
+[Info  - 12:22:02 PM] (406) Starting service instance "<default>"
+[Info  - 12:22:03 PM] (406) No pyproject.toml file found.
+[Info  - 12:22:03 PM] (406) Setting pythonPath for service "<default>": "/bin/python3"
+[Warn  - 12:22:03 PM] (406) stubPath typings is not a valid directory.
+[Info  - 12:22:03 PM] (406) Assuming Python version 3.10
+[Info  - 12:22:03 PM] (406) Assuming Python platform Linux
+[Info  - 12:22:04 PM] (406) Searching for source files
+[Info  - 12:22:04 PM] (406) No source files found.
+[Info  - 12:22:07 PM] (406) Background analysis(2) root directory: /home/gianna/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20/dist
+[Info  - 12:22:07 PM] (406) Background analysis(2) started
+[Info  - 12:22:07 PM] (406) Indexer background runner(3) root directory: /home/gianna/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.20/dist (index)
+[Info  - 12:22:07 PM] (406) Indexing(3) started
+[Info  - 12:22:09 PM] (406) [IDX(3)] Long operation: scan packages /home/gianna/test (2430ms)
+[Info  - 12:22:09 PM] (406) scanned(3) 38 files over 1 exec env
+[Info  - 12:22:12 PM] (406) [IDX(3)] Long operation: index execution environment /home/gianna/test (2668ms)
+[Info  - 12:22:12 PM] (406) [IDX(3)] Long operation: index packages /home/gianna/test (2689ms)
+[Info  - 12:22:12 PM] (406) indexed(3) 16 files over 1 exec env
+[Info  - 12:22:12 PM] (406) Indexing finished(3).
+[Info  - 12:43:27 PM] (406) Searching for source files
+[Info  - 12:43:27 PM] (406) Found 2 source files
+[Info  - 12:43:29 PM] (406) [BG(1)] Long operation: getSemanticTokens range 0:0 - 0:0 at /home/gianna/test/load_dataframe.py (2296ms)
+[Info  - 12:43:31 PM] (406) [BG(1)] Long operation: analyzing: /home/gianna/test/test.py (2051ms)
+[Info  - 12:43:40 PM] (406) [FG] Long operation: completion at /home/gianna/test/load_dataframe.py:2:23 (2162ms)
