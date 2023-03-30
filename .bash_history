@@ -157,3 +157,36 @@ git push .
 git push
 git remote add origin https://github.com/Gianna22/porfolio.git
 git push -u origin main
+git init
+git config --global init.defaultBranch Main
+git init
+git add . 
+git commit -m "finalizado"
+git remote add origin https://github.com/Gianna22/porfolio.git
+git branch -M main
+git push -u origin main
+~/.ssh/config
+ls -al ~/.ssh 
+$ ssh-keygen -t ed25519 -C  giannaantonacci1@gmail.com
+git branch -M main
+git push -u origin main
+git branch -M main
+git push -u origin main
+git remote set-url origin https://github.com/Gianna22/porfolio/
+git push 
+ls - la 
+ls-la
+ls -la
+ssh-keygen -i -f /path/to/old/key > /path/to/new/key
+cat /home/gianna/.ssh/id_ed25519
+cat ubuntu.pub 
+git remote add origin https://github.com/Gianna22/porfolio.git
+git branch -M main
+git push -u origin main
+git push
+ssh-keygen -t ed25519 -C giannaantonacci1@gmail.com
+git push 
+git remote add origin git@github.com:Gianna22/porfolio.git
+git push -u origin main
+ll
+ls
